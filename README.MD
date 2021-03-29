@@ -32,4 +32,5 @@ Welcome to the ITXOTIC AI Training and Inferencing Challenge.
     - If available, the candidate should demonstrate the ability to switch inferencing on devices (VPU, CPU, GPU, FPGA)
 
 3. _Optional: Convert pothole training model into Openvino IR model & demonstrate_
+
 If you have any questions during doing the task, please email itxotic@gmail.com
