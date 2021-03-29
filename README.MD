@@ -15,9 +15,11 @@ Welcome to the ITXOTIC AI Training and Inferencing Challenge.
         - Same goes to the normalized width and height. The class numbers are zero-indexed (start from 0).
         - There are 1564 images with 720x480 in size. There are 3530 annotated potholes inside this dataset.
 
+
     - Choose any framework you are comfortable with (Keras, Tensorflow, Pytorch, Caffe, etc)
 
     - The generated model and the detection script must then be submitted to itxotic@gmail.com with the subject
+
         - _<firstname,lastname> - Pothole Detection <Framework-Model name>_
         - eg, **Anuar Ibrahim - Pothole Detection Pytorch-MobilnetV2-SSD**
 
@@ -31,7 +33,8 @@ Welcome to the ITXOTIC AI Training and Inferencing Challenge.
     - The candidate is then required to find a readily avaialable video analytics project that can be demonstrated during the interview.
         - Refer to _https://github.com/intel-iot-devkit_ for some examples.
 
-    - If available, the candidate should demonstrate the ability to switch inferencing on devices (VPU, CPU, GPU, FPGA)
+    - If available, the candidate should demonstrate the ability to switch inferencing on devices (VPU, CPU, GPU, FPGA).
+
 
 3. _Optional: Convert pothole training model into Openvino IR model & demonstrate_
 
