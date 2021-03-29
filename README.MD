@@ -26,9 +26,11 @@ Welcome to the ITXOTIC AI Training and Inferencing Challenge.
     
 
 2. Installation & Inferencing demonstration using on OpenVINO toolkit
-    - The candidate is required to demonstrate the ability to successfully install OpenVINO on their device
-    - The candidate is then required to find a readily avaialable video analytics project that can be demonstrated during the interview
-        refer to _https://github.com/intel-iot-devkit_ for some examples.
+    - The candidate is required to demonstrate the ability to successfully install OpenVINO on your desktop or inferencing device
+
+    - The candidate is then required to find a readily avaialable video analytics project that can be demonstrated during the interview.
+        - Refer to _https://github.com/intel-iot-devkit_ for some examples.
+
     - If available, the candidate should demonstrate the ability to switch inferencing on devices (VPU, CPU, GPU, FPGA)
 
 3. _Optional: Convert pothole training model into Openvino IR model & demonstrate_
