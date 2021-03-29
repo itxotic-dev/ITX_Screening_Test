@@ -2,7 +2,7 @@ Welcome to the ITXOTIC AI Training and Inferencing Challenge.
  The challenge has two tasks to be completed in order to proceed to the next stage. 
  You have **5 days** to complete this task, starting from the day the test email is sent. You must submit before midnight of the 5th day.
 
- 1. Deep Learning model training
+ 1. Deep Learning model training with https://gitlab.com/azolkipli/ITXOTIC_Screening_Test dataset
     - The candidate is required to train an Object Detection AI model with the dataset in this gitlab repository
     
     - You may choose any model that you prefer. But, it must be able to do realtime detection, with fairly high accuracy on CPU (not GPU)
