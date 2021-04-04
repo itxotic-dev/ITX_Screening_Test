@@ -24,6 +24,12 @@ Welcome to the ITXOTIC AI Training and Inferencing Challenge.
         - eg, **Anuar Ibrahim - Pothole Detection Pytorch-MobilnetV2-SSD**
 
     - Share details of the AI model and training decisions* What examples details to share
+        - choice of model (yolo, vgg16, mobilenet, etc)
+        - choice of framework (pytorch, tensorflow, keras, etc)
+        - data augmentation decisions (if any)
+        - train/test/validate ratio
+        - accuracy & latency (ms) average
+        - anything else of note
     - The AI model will be tested with our sample data to validate it is working and has acceptable level of speed and accuracy.
     
 
