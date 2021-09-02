@@ -3,6 +3,8 @@ The content of this document is confidential and intended only for individuals p
 Challenge Question
 Create a web app that displays a real-time video/image stream from a server's backend media. The architecture should be as follows.
 
+![Image of image1](https://github.com/itxotic-dev/ITX_Screening_Test/blob/fullstack-screen/images/image1.png)
+
 Basic visualization of system architecture
 
 Notes :
