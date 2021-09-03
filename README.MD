@@ -53,4 +53,5 @@ Basic visualization of system architecture
 
 ### Due
 
-This challenge is expected to be completed within 3-6 days from the day participants received this challenge. However, the time of completion is not our prime scoring criteria in this challenge. You may request extension of time to suit your developing time.
+This challenge is expected to be completed within 3-6 days from the day participants received this challenge. However, the time of completion is not our prime scoring criteria in this challenge. You may request extension of time to suit your developing time. 
+After successfully finishing the challenge, please submit your completed work to info@itxotic.com
